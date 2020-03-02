@@ -33,14 +33,17 @@ public class MainActivity extends AppCompatActivity {
 
         switch (i) {
             case 1:
+                //one is android
                 ib.setImageResource(R.drawable.one);
                 iv.setImageResource(R.drawable.android);
                 break;
             case 2:
+                //two is apple
                 ib.setImageResource(R.drawable.two);
                 iv.setImageResource(R.drawable.apple);
                 break;
             case 3:
+                //three is windows
                 ib.setImageResource(R.drawable.three);
                 iv.setImageResource(R.drawable.windoes);
                 break;
